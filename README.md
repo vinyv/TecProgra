@@ -4,7 +4,7 @@ Este repositório contém o portfólio de atividades práticas desenvolvidas dur
 
 Os códigos aqui presentes refletem a evolução do aprendizado em linguagem **C**, abordando conceitos como lógica de programação, manipulação de vetores, ponteiros, structs e functions.
 
-## 🏫 Informações da Disciplina
+## 📙 Informações da Disciplina
 
 * **Matéria:** Técnicas de Programação
 * **Professora:** Ma. Ione Goulart
