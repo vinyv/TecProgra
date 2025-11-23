@@ -1,8 +1,8 @@
 # 💻 Técnicas de Programação - 2025.2
 
-Este repositório contém o portfólio de atividades práticas desenvolvidas durante o semestre **2025.2** na disciplina de **Técnicas de Programação**.
+Este repositório contém as atividades práticas desenvolvidas durante o semestre **2025.2** na disciplina de **Técnicas de Programação**.
 
-Os códigos aqui presentes refletem a evolução do aprendizado em linguagem **C**, abordando conceitos como lógica de programação, manipulação de vetores, ponteiros, structs e functions.
+Os códigos refletem a evolução do aprendizado em linguagem **C**, abordando conceitos como lógica de programação, ponteiros, structs e functions.
 
 ## 📙 Informações da Disciplina
 
