@@ -21,4 +21,5 @@ Abaixo estão os 5 scripts principais desenvolvidos ao longo do curso:
 5. [Etapa 5 - Functions.c](Etapa%205%20-%20Functions.c)
 
 Obrigado ;)
+
 Vinycius C. 2025 ©
