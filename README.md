@@ -14,11 +14,11 @@ Os códigos refletem a evolução do aprendizado em linguagem **C**, abordando c
 
 Abaixo estão os 5 scripts principais desenvolvidos ao longo do curso:
 
-1.  **`Etapa 1 - IO.c`**
-2.  **`Etapa 2 - Switch.c`** 
-3.  **`Etapa 3 - Arrays.c`** 
-4.  **`Etapa 4 - Struct.c`** 
-5.  **`Etapa 5 - Functions.c`** 
+1.  **`[Etapa 1 - IO.c](Etapa%201%20-%20IO.c)`**
+2.  **`[Etapa 2 - Switch.c](Etapa%202%20-%20Switch.c)`** 
+3.  **`[Etapa 3 - Arrays.c](Etapa%203%20-%20Arrays.c)`** 
+4.  **`[Etapa 4 - Struct.c](Etapa%204%20-%20Struct.c)`** 
+5.  **`5. [Etapa 5 - Functions.c](Etapa%205%20-%20Functions.c)`** 
 
 Obrigado ;)
 Vinycius C. 2025 ©
